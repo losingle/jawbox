@@ -50,6 +50,7 @@
     "dependencies": {
         "@fluentui/react-components": "^9.58.2",
         "@fluentui/react-icons": "^2.0.274",
+        "@fluentui/react-nav-preview": "^0.13.6",
         "react": "^18.3.1",
         "react-dom": "^18.3.1",
         "react-router": "^7.1.5",
